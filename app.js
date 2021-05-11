@@ -1,1 +1,1 @@
-console.log ("Olá mundo victor")
+console.log ("Olá mundo")
